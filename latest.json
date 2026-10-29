@@ -1,6 +1,1 @@
-{
- "version_code": 23,
- "version": "V22B-OVERLAY-FIX-TEST",
- "sha256": "d9e4c700142b95307866654ae026fe8226ec2d9310fb72b127e4d3eae3343562",
- "url": "https://github.com/suhebjadu/app-update-feed/releases/download/v22b/LIA-V22B.apk"
-}
+{"version_code":24,"version":"V22D-FINAL-TEST","sha256":"da683dad28ccb20f01dd2d1c5b93f4ed4564b62c905776560d610ec773654f3b","url":"https://github.com/suhebjadu/app-update-feed/releases/download/v22d/LIA-V22D-FINAL-TEST.apk"}
